@@ -1,4 +1,5 @@
 **PHPStrom Custom Configuration And Code Templated**
+-------------------------------
 Original Source from `https://github.com/yvoyer/phpstorm-settings`
 
 This is my custom configuration for PHPStorm, so that all my environments are setup the same.
@@ -9,7 +10,7 @@ Install
 =======
 
 * Clone the project: `git clone http://github.com/yvoyer/phpstorm-settings`
--OR-
+* -[OR]-
 * Clone the project: `git clone http://github.com/amrikasir/phpstorm-custom-settings`
 
 * Execute the `./compile-settings.sh`: It will generate a `settings.jar` file with the configured settings
