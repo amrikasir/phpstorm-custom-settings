@@ -1,4 +1,4 @@
-**PHPStrom Custom Configuration And Code Templated**
+**PHPStorm Custom Configuration And Code Templated**
 -------------------------------
 Original Source from `https://github.com/yvoyer/phpstorm-settings`
 
